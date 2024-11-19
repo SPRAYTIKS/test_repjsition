@@ -1,2 +1,2 @@
 print('first')
-print(1)
+print('second')
